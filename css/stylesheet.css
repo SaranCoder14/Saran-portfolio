@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+ 
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+
+.topic {
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+.topic .logo p {
+    color: greenyellow;
+    font-size: 40px;
+}
+
+header a {
+   text-decoration: none;
+   color: white;
+   font-size: 1.5rem;
+   padding: 0 4.2em;
+   font-weight: bold;
+   font-family: Cambria;
+}
+a:hover{
+    color: greenyellow;
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+
+ img{
+    float: right;
+    border-radius:70px;
+    width: 500px;
+    height: 650px;
+    margin-top:30px;
+    margin-right: 60px; 
+}
+.head p{ font-size:20px;
+    color:white;
+    font-size: 50px;
+    margin-left: 10%;
+    font-family: 'Teko', sans-serif;
+    margin-top: 40px;
+    
+
+
+}
+.head h2{
+    color: greenyellow;
+    margin-left: 10%;
+    font-size: 75px;
+    font-family: 'Bungee Inline', cursive;
+    
+}
+body{
+    background-color:rgb(36,35,31)
+}
+.info ul li {
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 20%;
+    list-style: none;
+    margin-top:7%;
+    
+}
+.about{
+    color:greenyellow;
+}
+.profile h2{
+    font-size: 40px;
+    text-align: center;
+    color: greenyellow;
+}
+.profile p{
+    font-size: 30px;
+    color: aliceblue;
+}
+.skill h2
+{
+font-size:40px;
+text-align: center;
+color:greenyellow;
+}
+.skill p{
+    font-size:27px ;
+    color:aliceblue;
+    font-family:Tahoma;
+}
+.skill
+{
+    color:greenyellow;
+    font-size: 20px;
+}
+.service
+{
+    color:greenyellow;
+    font-size: 20px;
+}
+.service p{
+    font-size: 27px;
+    color:aliceblue;
+}
+.service h2{
+    text-align: center;
+    font-size: 40px;
+    color:greenyellow;
+}
+.dhanush h1
+{
+    color:greenyellow;
+    
+}
+.dhanush h2 {
+    text-align:center;
+    font-size: 40px;
+    color: greenyellow;
+    
+}
+.dhanush p{
+    font-size: 27px;
+    color: aliceblue;
+} 
+
+.dhanush
+{
+    font-size: 20px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    
+}
+
+header
+{
+list-style: none;
+
+}
+
+.foot
+{
+    font-size: 25px;
+    color:azure;
+    background-color:black;
+    padding: 10px;
+    
+    
+}
+
+.foot li a{
+
+    background-color:aliceblue;
+    color: blue;
+
+}
+.foot  li 
+{
+    margin-left: 70px;
+}
+.foot p{
+    margin-left: 50px;
+}
+
+.about{
+    padding: 10px;
+    background-color: black;
+    font-family: 'Shadows Into Light', cursive;
+}
+.inspiration{
+    padding: 10px;
+    background-color: black;
+    font-family: 'Shadows Into Light', cursive;
+}
+.servic{
+    padding: 10px;
+    background-color: black;
+    font-family: 'Shadows Into Light', cursive;
+}
+.skills{
+    padding: 10px;
+    background-color: black;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+input{
+    margin-left: 700px;
+    
+    
+    
+
+}
+.p1{
+    text-align: center;
+    color: aqua;
+}
+
+
